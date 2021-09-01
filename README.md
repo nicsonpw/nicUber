@@ -30,7 +30,7 @@ An ongoing project solely to enrich my knowledge of React Native
 # Yarn
   yarn add @reduxjs/toolkit
 ```
-- Install React Navigation Stack
+- Install React Navigation
 ```bash
 yarn add @react-navigation/stack
 
