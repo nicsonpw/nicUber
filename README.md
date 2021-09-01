@@ -36,7 +36,7 @@ An ongoing project solely to enrich my knowledge of React Native
 ```
 - Install Google Places Auto Complete
 ```bash
-yarn add react-native-google-places-autocomplete
+  yarn add react-native-google-places-autocomplete
 ```
 
 
