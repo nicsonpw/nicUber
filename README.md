@@ -49,12 +49,11 @@ To deploy this project run
 ```
 
 This  will open MetroBundler on your web browser
-```bash
-  Select "Tunnel" for direct testing on your mobile device
-```
-```bash
-  Open "Expo Go" application on your mobile device
-```
+
+- Select "Tunnel" for direct testing on your mobile device
+
+- Open "Expo Go" application on your mobile device
+
 ## Tech Stack
 
 **Client:** React, React Native, Redux, TailwindCSS
