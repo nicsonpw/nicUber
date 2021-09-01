@@ -9,7 +9,7 @@ An ongoing project solely to enrich my knowledge of React Native
 - Use Tailwind CSS for styling
 - Use the Google Distance Matrix API to calculate Travel Time, Distance, and cost
 - Use the Directions Google API for real navigation
-- Use Google Places API for real navigation
+- Use the Google Places API for real navigation
 - Use Apple maps for iOS 
 - Use React Native Navigation to navigate between screens
 - Use React Native Elements for app design
