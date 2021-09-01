@@ -46,6 +46,10 @@ An ongoing project solely to enrich my knowledge of React Native
 ```bash
   yarn add react-native-maps
 ```
+- Install Maps Directions
+```bash
+yarn add react-native-maps-directions
+```
 - Install Safe Area Context 
 ```bash
   expo install react-native-safe-area-context
