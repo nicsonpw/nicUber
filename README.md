@@ -32,7 +32,11 @@ An ongoing project solely to enrich my knowledge of React Native
 ```
 - Install React Navigation Stack
 ```bash
-yarn add react-navigation-stack @react-native-community/masked-view
+yarn add @react-navigation/stack
+
+yarn add react-native-gesture-handler
+
+yarn add @react-native-masked-view/masked-view
 ```
 - Install Google Places Auto Complete
 ```bash
