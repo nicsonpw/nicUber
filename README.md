@@ -1,9 +1,18 @@
 
 
 # Nicson's Uber Clone
+An Uber clone created for learning purposes
 
-A brief description of what this project does and who it's for
+## Installation
 
+Install Expo
+
+```bash
+  npm install -g expo-cli
+  
+  expo init "projectname"
+```
+    
 
 ## Deployment
 
@@ -22,7 +31,7 @@ This  will open MetroBundler on your web browser
 ```
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** React, React Native, Redux, TailwindCSS
 
 **Server:** Node
 
