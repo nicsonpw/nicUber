@@ -34,6 +34,10 @@ An ongoing project solely to enrich my knowledge of React Native
 ```bash
   yarn add react-native-google-places-autocomplete
 ```
+- Install dotenv
+```bash
+  yarn add react-native-dotenv
+```
 - Install Tailwind CSS
 ```bash
   yarn add tailwind-react-native-classnames
