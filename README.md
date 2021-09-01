@@ -58,8 +58,12 @@ yarn add @react-native-masked-view/masked-view
 ```bash
 yarn add react-native-maps-directions
 ```
-- Install Safe Area Context for stack
+- Install React Native Elements
 ```bash
+  yarn add react-native-elements
+
+  yarn add react-native-vector-icons
+
   expo install react-native-safe-area-context
 ```
 
