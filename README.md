@@ -38,13 +38,13 @@ An ongoing project solely to enrich my knowledge of React Native
 ```bash
   yarn add tailwind-react-native-classnames
 ```
-- Install Safe Area Context 
-```bash
-  expo install react-native-safe-area-context
-```
 - Install Maps
 ```bash
   yarn add react-native-maps
+```
+- Install Safe Area Context 
+```bash
+  expo install react-native-safe-area-context
 ```
 
 ## Deployment
