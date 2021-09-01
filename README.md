@@ -30,6 +30,10 @@ An ongoing project solely to enrich my knowledge of React Native
 # Yarn
   yarn add @reduxjs/toolkit
 ```
+- Install Tailwind CSS from
+```bash
+https://github.com/jaredh159/tailwind-react-native-classnames
+```
 
 
 ## Deployment
