@@ -1,18 +1,24 @@
 
 
 # Nicson's Uber Clone
-An Uber clone created for learning purposes
+An ongoing project solely to enrich my knowledge of React Native
 
 ## Installation
 
-Install Expo
+- Install Expo
 
 ```bash
   npm install -g expo-cli
   
   expo init "projectname"
 ```
-    
+
+- Install Redux toolkit
+```bash
+# Yarn
+  yarn add @reduxjs/toolkit
+```
+
 
 ## Deployment
 
