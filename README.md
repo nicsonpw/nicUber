@@ -72,7 +72,7 @@ This  will open MetroBundler on your web browser
 ```bash
   expo publish
 ```
-This allows me to check new updates faster through Expo Projects on my phone, instead of constantly using QR codes
+This allows me to review my work faster through Expo Projects, instead of constantly using QR codes
 
 ## Tech Stack
 
