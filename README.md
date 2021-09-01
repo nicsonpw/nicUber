@@ -69,11 +69,12 @@ This  will open MetroBundler on your web browser
 - Install and Open "Expo Go" application on your mobile OS device
 From this point, you could use QR codes and run the application on your mobile device
 
-Furthermore, use 
+Furthermore, for smoother workflow, run this command
 ```bash
   expo publish
 ```
-This allows me to review my work faster through Expo Projects, instead of constantly using QR codes
+By doing so, it allows me to review my work faster through Expo Projects, instead of constantly using QR codes
+(You have to setup an Expo account in order to do this)
 
 ## Tech Stack
 
