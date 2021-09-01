@@ -57,7 +57,7 @@ yarn add react-native-maps-directions
 
 ## Deployment
 
-To deploy this project run
+To start this project
 
 ```bash
   expo start
@@ -68,6 +68,11 @@ This  will open MetroBundler on your web browser
 - Select "Tunnel" for direct testing on your mobile device
 
 - Open "Expo Go" application on your mobile device
+
+```bash
+  expo publish
+```
+This allows me to check new updates faster through Expo Projects on my phone, instead of constantly using QR codes
 
 ## Tech Stack
 
