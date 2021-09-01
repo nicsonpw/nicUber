@@ -33,7 +33,10 @@ An ongoing project solely to enrich my knowledge of React Native
 - Install Tailwind CSS
 ```bash
   yarn add tailwind-react-native-classnames
-  from https://github.com/jaredh159/tailwind-react-native-classnames
+```
+- Install Google Places Auto Complete
+```bash
+yarn add react-native-google-places-autocomplete
 ```
 
 
