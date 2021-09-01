@@ -30,15 +30,14 @@ An ongoing project solely to enrich my knowledge of React Native
 # Yarn
   yarn add @reduxjs/toolkit
 ```
-- Install Tailwind CSS
-```bash
-  yarn add tailwind-react-native-classnames
-```
 - Install Google Places Auto Complete
 ```bash
   yarn add react-native-google-places-autocomplete
 ```
-
+- Install Tailwind CSS
+```bash
+  yarn add tailwind-react-native-classnames
+```
 
 ## Deployment
 
