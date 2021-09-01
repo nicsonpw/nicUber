@@ -30,11 +30,15 @@ An ongoing project solely to enrich my knowledge of React Native
 # Yarn
   yarn add @reduxjs/toolkit
 ```
+- Install React Navigation Stack
+```bash
+yarn add react-navigation-stack @react-native-community/masked-view
+```
 - Install Google Places Auto Complete
 ```bash
   yarn add react-native-google-places-autocomplete
 ```
-- Install dotenv
+- Install Dotenv
 ```bash
   yarn add react-native-dotenv
 ```
@@ -50,7 +54,7 @@ An ongoing project solely to enrich my knowledge of React Native
 ```bash
 yarn add react-native-maps-directions
 ```
-- Install Safe Area Context 
+- Install Safe Area Context for stack
 ```bash
   expo install react-native-safe-area-context
 ```
