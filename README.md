@@ -57,7 +57,7 @@ yarn add react-native-maps-directions
 
 ## Deployment
 
-To start this project
+To run this project
 ```bash
   expo start
 ```
