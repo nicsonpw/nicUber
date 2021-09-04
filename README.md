@@ -15,6 +15,13 @@ An ongoing project solely to enrich my knowledge of React Native
 - Use React Native Elements for app design
 
 
+## Future plans
+
+- Add Uber Eats functionality
+- Update UI/UX 
+- Add payment methods
+
+
 ## Installation
 
 - Install Expo
